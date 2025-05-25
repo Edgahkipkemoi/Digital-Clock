@@ -55,7 +55,7 @@ digital-clock/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   https://github.com/Edgahkipkemoi/Digital-Clock.git
 2.Open index.html in your browser.
 
 📦 Future Improvements
